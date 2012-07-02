@@ -1,0 +1,3 @@
+[submodule "vendors/piik"]
+	path = vendors/piik
+	url = git@github.com:rburgt/piik.git
